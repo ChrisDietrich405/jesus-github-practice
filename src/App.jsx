@@ -5,7 +5,7 @@ import "./App.css";
 function App() {
   const [count, setCount] = useState(0);
 
-  return <h1>FROM PULL REQUEST</h1>;
+  return <h1>this is my second branch</h1>
 }
 
 export default App;
